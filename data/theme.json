@@ -1,0 +1,19 @@
+{
+  "style_name": "文艺",
+  "colors": {
+    "primary": "#B5432A",
+    "secondary": "#8B6914",
+    "bg": "#FFFDF5",
+    "text": "#2C2C2C",
+    "accent": "#C47B3B",
+    "card_bg": "#FFF8ED",
+    "success": "#4A7C59",
+    "error": "#C44536"
+  },
+  "fonts": {
+    "heading": "Noto Serif SC",
+    "body": "Noto Sans SC"
+  },
+  "border_radius": "10px",
+  "emoji_style": "default"
+}
